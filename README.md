@@ -1,3 +1,3 @@
 # Estudos SQL com MySQL Server Oracle
-Aqui estão algumas Queries que estou fazendo a medida que avanço meus estudos de SQL com MySQL.
+Aqui estão alguns dos códigos SQL que fiz ao longo do curso para fazer consultas, manipular tabelas, criar funções e stored procedures.
 
